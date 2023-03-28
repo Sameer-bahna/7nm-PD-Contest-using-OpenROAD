@@ -14,3 +14,12 @@ SUCSICWFHVJKCJPV
  # DJKVBEQOCJVEFOINPVV
  
  AVBOWVWPKVNW
+
+![image](https://user-images.githubusercontent.com/128247536/228312894-f114171b-f9c9-49d1-bc2a-0067b71aed4d.png)
+
+  1) BVOV
+  2) DKBS
+  3) CDBIBODCAC
+
+•  bidcboc
+•  ojdvnpwvnpw
