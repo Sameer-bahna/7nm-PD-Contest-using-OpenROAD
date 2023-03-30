@@ -54,12 +54,12 @@ OpenROAD uses the OpenDB database and OpenSTA for static timing analysis.
 
 The design ensures 0 DRC violations
 
-# Results and Achievements
 
 ![image](https://user-images.githubusercontent.com/128247536/228820156-b78db6ec-83de-4a99-92b4-1b4e2f061201.png)
 
 ![Screenshot (73)](https://user-images.githubusercontent.com/128247536/228819245-2e0e3bab-8d91-4fdc-b5aa-a0f5fbca2d3b.png)
 
+# Results
 
 The final modified design constraints are given as follows :
 
